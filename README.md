@@ -268,3 +268,19 @@ This project was developed as a Python learning and portfolio project to demonst
 
 \*\*Note:\*\* This is a local student prototype, not a deployed enterprise email automation service.
 
+## Project Screenshots
+
+### 1. Project Structure
+![Project Structure](images/project-structure.png)
+
+### 2. Dry Run Output
+![Dry Run Output](images/dry-run.png)
+
+### 3. Contacts Database
+![Contacts CSV](images/contacts-csv.png)
+
+### 4. Email Template
+![Email Template](images/email-template.png)
+
+### 5. GitHub Repository
+![GitHub Repository](images/github-repository.png)

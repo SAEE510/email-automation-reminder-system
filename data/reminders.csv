@@ -1,0 +1,4 @@
+reminder_id,contact_id,reminder_type,due_datetime,template_file,status
+R001,C001,Document Submission,2026-11-20 09:00,task_reminder.txt,pending
+R002,C002,Training Session,2026-11-22 10:00,class_reminder.txt,pending
+R003,C003,Project Review,2026-12-01 14:00,task_reminder.txt,pending

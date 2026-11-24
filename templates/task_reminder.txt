@@ -1,0 +1,13 @@
+Subject: Reminder - {reminder_type}
+
+Hello {name},
+
+This is a friendly reminder regarding: {reminder_type}.
+
+Please complete the required task by the scheduled date.
+
+Department: {department}
+Due Date: {due_datetime}
+
+Thank you,
+Email Automation Reminder System

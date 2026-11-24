@@ -1,0 +1,14 @@
+Subject: Class Reminder - {reminder_type}
+
+Hello {name},
+
+This is a reminder about your upcoming training session.
+
+Session: {reminder_type}
+Department: {department}
+Scheduled Date: {due_datetime}
+
+Please be prepared and attend on time.
+
+Thank you,
+Email Automation Reminder System

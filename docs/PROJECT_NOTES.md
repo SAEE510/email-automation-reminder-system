@@ -84,3 +84,45 @@ have passed.
 
 \- Project screenshots.
 
+## Automated Testing
+
+
+
+\- Testing framework: Python unittest
+
+\- Test file: tests/test\_data\_loader.py
+
+\- Total tests: 10
+
+\- Passed: 10
+
+\- Failed: 0
+
+
+
+\### Test Coverage
+
+\- Contact CSV loading and validation
+
+\- Duplicate contact ID detection
+
+\- Duplicate email detection
+
+\- Email format validation
+
+\- Reminder CSV loading and validation
+
+\- Duplicate reminder ID detection
+
+\- Reminder date validation
+
+
+
+Test command:
+
+python -m unittest discover -s tests -v
+
+
+
+Result: All 10 tests passed successfully.
+
